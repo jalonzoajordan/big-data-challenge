@@ -1,6 +1,6 @@
 # big-data-challenge
 # Overview
-In this assignment we reviewed the star ratings for Amazon vine users who purchased an item categorized as home improvement or home entertainment. All data collection and loading 
+In this assignment we reviewed the star ratings for Amazon vine users who purchased an item categorized as home improvement or home entertainment. All data collection and loading were performed in the BigData_Home_Entertainment and BigData_Home_Improvement jupyter notebooks.
 
 # Analysis
 After loading the data, we asked the following questions to determine the reliability of vine reviews compared to the population.
