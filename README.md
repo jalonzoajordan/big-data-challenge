@@ -16,7 +16,7 @@ Minimum star ratings for Amazon during the data collection period were zero, wit
 
 For Question 1: Querying the collected data, we found that every single product in the selected categories had at least one vine reviewer. This shows that there is not a preference for reviews from vine reviewers - and that vine reviewers may overreview to maximize returns and profit. 393645/393645 products had a vine review.
 
-![portion vine reviews 1](numProdTotal.jpg)
+![portion vine reviews 1](numProdsTotal.jpg)
 
 For Question 2: We continue to address the prior concern that vine reviewers may overreview by checking the number of products reviewed on average. For this, we found that vine reviewers average 3.46 reviews in these categories. This now indicates that, due to the large number of items, that there are enough vine reviewers to cover the entire product categories for reviews.
 
